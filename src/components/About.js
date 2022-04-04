@@ -1,4 +1,5 @@
 import React from "react";
+import Sai from '../images/Sai.png'
 
 export default function About() {
     return (
@@ -31,7 +32,7 @@ export default function About() {
             <img
               className="object-cover object-center rounded"
               alt="hero"
-              src="./coding.svg"
+              src={Sai}
             />
           </div>
         </div>

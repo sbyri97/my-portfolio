@@ -2,7 +2,7 @@ import React from 'react';
 import {Route, Switch } from 'react-router-dom';
 import About from './components/About';
 import Contact from './components/Contact';
-import Extras from './components/Extras';
+// import Extras from './components/Extras';
 import NavBar from './components/NavBar';
 import Projects from './components/Projects';
 import Skills from './components/Skills';
@@ -18,9 +18,9 @@ function App() {
           <Projects />
           <Contact />
         </Route>
-        <Route path='/extras' exact={true}>
+        {/* <Route path='/extras' exact={true}>
           <Extras />
-        </Route>
+        </Route> */}
       </Switch>
     </main>
   );

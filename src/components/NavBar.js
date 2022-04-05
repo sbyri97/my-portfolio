@@ -1,5 +1,6 @@
 import { ArrowRightIcon } from "@heroicons/react/solid";
 import React from "react";
+import resume from '../images/Byri_Sai_Resume.pdf'
 
 export default function NavBar() {
   return (
@@ -16,6 +17,9 @@ export default function NavBar() {
           </a>
           <a href="#skills" className="mr-5 hover:text-white">
             Skills
+          </a>
+          <a href={resume} className="mr-5 hover:text-white" target="_blank" rel="noreferrer">
+            My Resume
           </a>
         </nav>
         <a

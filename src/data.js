@@ -1,6 +1,7 @@
 import autobarn from './images/autobarn.png'
 import moodify from './images/moodify.png'
 import sustainabnb from './images/sustainabnb-gif.gif'
+import Intermedium from './images/Intermedium.png'
 
 export const projects = [
     {
@@ -23,6 +24,13 @@ export const projects = [
         description: 'An Airbnb clone where users can host their sustainable proeprty for rent and leave reviews on other properties.',
         image: sustainabnb,
         link: "https://sustainabnb.herokuapp.com/"
+    },
+    {
+        name: 'Intermedium',
+        stack: 'Pug, Express.js',
+        description: 'An Medium.com clone where users can share blog posts about their hobbies and like/comment on other hobby posts.',
+        image: Intermedium,
+        link: "https://inter-medium.herokuapp.com/"
     },
 ]
 

@@ -13,7 +13,8 @@ export default function About() {
             <p className="mb-8 leading-relaxed">
               I studied human biology during my undergrad and
 							I recently graduated from an immersive software engineering bootcamp with 3% acceptance rate
-							that focused on full-stack web development.
+							that focused on full-stack web development. I'm currently working as a software engineer at a startup,
+              building custom solutions to improve business performances.
             </p>
             <div className="flex justify-center">
               <a

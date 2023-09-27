@@ -35,5 +35,5 @@ export const projects = [
 ]
 
 export const skills = [
-    'Python', 'Javascript', 'React', 'Redux', 'SQLAlchemy', 'Express', 'PostgreSQL', 'docker'
+    'Python', 'Javascript', 'Golang', 'React/Redux', 'HTML5/CSS3', 'Express', 'PostgreSQL', 'Docker'
 ]

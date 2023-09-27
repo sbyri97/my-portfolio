@@ -8,13 +8,12 @@ export default function About() {
           <div className="lg:flex-grow md:w-1/2 lg:pr-24 md:pr-16 flex flex-col md:items-start md:text-left mb-16 md:mb-0 items-center text-center">
             <h1 className="title-font sm:text-4xl text-3xl mb-4 font-medium text-white">
               Hi, I'm Sai.
-              <br className="hidden lg:inline-block" />I'm a software engineer with a background in biology.
+              <br className="hidden lg:inline-block" />I'm a software engineer with a unique background in biology.
             </h1>
             <p className="mb-8 leading-relaxed">
-              I studied human biology during my undergrad and
-							I recently graduated from an immersive software engineering bootcamp with 3% acceptance rate
-							that focused on full-stack web development. I'm currently working as a software engineer at a startup,
-              building custom solutions to improve business performances.
+             I studied human biology during my undergrad and then successfully completed a highly selective immersive software engineering bootcamp at App Academy, specializing in full-stack engineering with an acceptance rate as low as 3%. 
+	 	With over a year of experience, I'm currently contributing my skills as a software engineer at a startup. In my role, I play a pivotal part in building and migrating compliance software tailored for water utilities in North America. 
+	    	My work contributes to the vital mission of ensuring the safety of water supplies across the continent for all its inhabitants.
             </p>
             <div className="flex justify-center">
               <a
